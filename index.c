@@ -1,4 +1,4 @@
-//phase 3: index_load implemented
+//.phase 3: index_load implemented
 // index.c — Staging area implementation
 //
 // Text format of .pes/index (one entry per line, sorted by path):
