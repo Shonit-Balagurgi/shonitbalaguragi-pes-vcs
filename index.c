@@ -1,7 +1,7 @@
 //.phase 3: index_load implemented
 //. index.c — Staging area implementation
 //
-// Text format of .pes/index (one entry per line, sorted by path):
+//. Text format of .pes/index (one entry per line, sorted by path):
 //
 //   <mode-octal> <64-char-hex-hash> <mtime-seconds> <size> <path>
 //
